@@ -66,8 +66,8 @@ click ok!!
 
 ## Finally🎊🥳 checking to see if your APP works perfectly!🚀
 - Enter a random input (according to your prompt in step IV above, thus: create a shitpost about ```input```), click on the button
-* The input entered go thus : webhook => openAI => Google sheets => Glide app
-+ This process might take a while to complete. 
+* The input entered go thus : Glide app => webhook => openAI(generates output) => Google sheets => Glide app
++ This process might take a couple of seconds to complete. 
 
 ```NB: Ensure you save your scenario on make.com to avoid errors ``` 
 
